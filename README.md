@@ -1,4 +1,4 @@
-# data scientist profile prediction
+# Prediction of data scientist profiles
 Objectives:
 - Unsupervised clustering to identify 2 groups of distinct technical profiles.
 - Prediction of profiles whose job is not labeled.
